@@ -1,10 +1,9 @@
 1.  sudo adduser koda, sudo adduser dako,sudo groupadd devteam, sudo mkdir /srv/projectX
 
 2.  ![Koda the owner and devteam](image.png)
-3.  chmod 750 /srv/projectX
-    ![using absolut mode](image-1.png)
+3.  ![using absolut mode](image-1.png)
 
-4.whoami koda
+4
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
