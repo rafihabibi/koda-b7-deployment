@@ -15,4 +15,10 @@
 
 7. ![alt text](image-6.png)
 
-8.
+8. ![alt text](image-7.png)
+
+9.![alt text](image-8.png)
+
+10. ![alt text](image-9.png)
+
+11.![alt text](image-10.png)
